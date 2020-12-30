@@ -1,0 +1,9 @@
+main: fr.volax.valkyatournoi.ValkyaTournoi
+name: ValkyaTournoi
+version: 1.0.01
+description: ValkyaTournoi
+author: Volax
+commands:
+  tournoi:
+    description: Gérer le tournoi PvP
+    aliases: [tournoipvp]
